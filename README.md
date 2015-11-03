@@ -1,5 +1,6 @@
-# RPG
+RPG
 ==========
+
 Jogo de RPG simplificado.
 
 Desenvolvedores:
